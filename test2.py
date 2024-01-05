@@ -14,6 +14,7 @@ for i in range (6):
      rgb_color += choice('0123456789ABCDEF')
 rgb_color = '#' + rgb_color
 print(rgb_color)
+print('*******')
 
 
 
